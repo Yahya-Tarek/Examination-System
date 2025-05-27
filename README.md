@@ -45,7 +45,7 @@ The system follows a well-structured **Enhanced ERD (Entity-Relationship Diagram
 ## 🔧 Installation & Setup
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/ibr0him/Examination-System
+   git clone https://github.com/Yahya-Tarek/Examination-System.git
    cd Examination System
    ```
 2. Open the project in **Visual Studio 2022**.
